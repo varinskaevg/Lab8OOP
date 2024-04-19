@@ -1,0 +1,17 @@
+D:\Нова папка\Lab8OOP\bin\Debug\Lab8OOP.exe.config
+D:\Нова папка\Lab8OOP\bin\Debug\Lab8OOP.exe
+D:\Нова папка\Lab8OOP\bin\Debug\Lab8OOP.pdb
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP.csproj.AssemblyReference.cache
+D:\Нова папка\Lab8OOP\obj\Debug\MainWindow.g.cs
+D:\Нова папка\Lab8OOP\obj\Debug\App.g.cs
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP_MarkupCompile.cache
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP_MarkupCompile.lref
+D:\Нова папка\Lab8OOP\obj\Debug\MainWindow.baml
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP.g.resources
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP.Properties.Resources.resources
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP.exe
+D:\Нова папка\Lab8OOP\obj\Debug\Lab8OOP.pdb
+D:\Нова папка\Lab8OOP\obj\Debug\Window1.g.cs
+D:\Нова папка\Lab8OOP\obj\Debug\Window1.baml
